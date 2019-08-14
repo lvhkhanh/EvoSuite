@@ -43,3 +43,5 @@ Refs
 * [Code-based test generation](http://mit.bme.hu/~micskeiz/pages/code_based_test_generation.html#TH08)
 * [Evaluating code-based test-generator tools](https://www.slideshare.net/micskeiz/evaluating-codebased-testgenerator-tools)
 * [Symbolic Execution-based Test Tool Evaluator (SETTE)](https://github.com/SETTE-Testing/sette-tool/wiki)
+* [Survey on Automatic Test Data Generation Tools and Techniques for Object Oriented Code](https://bvucoepune.edu.in/wp-content/uploads/2018/BVUCOEP-DATA/Research_Publications/2015_16/42.pdf)
+* [Automated Software Test Generation: Some Challenges, Solutions, and Recent Advances](https://patricegodefroid.github.io/public_psfiles/lncs10000-2018.pdf)

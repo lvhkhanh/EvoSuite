@@ -31,6 +31,8 @@ Use older JDK
 
 [Microsoft Code Digger](https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.MicrosoftCodeDigger&ssr=false#overview)
 
+![](https://snag.gy/Rw4Es6.jpg)
+
 ![](https://snag.gy/xX6pL2.jpg)
 
 Refs

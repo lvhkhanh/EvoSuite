@@ -1,5 +1,24 @@
 # EvoSuite
 
+Build:
+
+* [Choco](https://chocolatey.org/docs/installation)
+
+`@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"`
+
+* [Git](https://gitforwindows.org/)
+
+```
+choco install git
+refreshenv
+```
+
+* [Maven](https://maven.apache.org/)
+
+```
+choco install maven
+refreshenv
+```
 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 Add Path `C:\Program Files\Java\jdk-12.0.2\bin`
@@ -34,19 +53,6 @@ Use older JDK
 ![](https://snag.gy/Rw4Es6.jpg)
 
 ![](https://snag.gy/xX6pL2.jpg)
-
-Build:
-
-* [Choco](https://chocolatey.org/docs/installation)
-
-`@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"`
-
-* [Git](https://gitforwindows.org/)
-
-```
-choco install git
-refreshenv
-```
 
 Refs
 * [EvoSuite](http://www.evosuite.org/documentation/tutorial-part-1/)

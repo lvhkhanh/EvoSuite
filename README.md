@@ -29,5 +29,9 @@ Use older JDK
 
 `java.lang.IllegalArgumentException: Could not find class [tutorial.Stack_ESTest]` => copy classes from evosuit-tests/tutorial  to target/classes/tutorial ![](https://snag.gy/Lvh3UT.jpg)
 
-[EvoSuite](http://www.evosuite.org/documentation/tutorial-part-1/)
+Refs
+* [EvoSuite](http://www.evosuite.org/documentation/tutorial-part-1/)
+* [CREATE YOUR OWN CLR PROFILER IN C#](http://topholt.com/c-clr-profiler/)
+* [.NET Internals: The Profiling API](http://www.blong.com/conferences/dcon2003/internals/profiling.htm)
+* [Is is possible to use Profiling API right from C#?](https://stackoverflow.com/questions/5736845/is-is-possible-to-use-profiling-api-right-from-c)
 

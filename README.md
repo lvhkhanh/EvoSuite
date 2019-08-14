@@ -40,4 +40,4 @@ Refs
 * [CREATE YOUR OWN CLR PROFILER IN C#](http://topholt.com/c-clr-profiler/)
 * [.NET Internals: The Profiling API](http://www.blong.com/conferences/dcon2003/internals/profiling.htm)
 * [Is is possible to use Profiling API right from C#?](https://stackoverflow.com/questions/5736845/is-is-possible-to-use-profiling-api-right-from-c)
-
+* [Code-based test generation](http://mit.bme.hu/~micskeiz/pages/code_based_test_generation.html#TH08)

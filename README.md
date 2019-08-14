@@ -27,7 +27,7 @@ Download `tools.jar`,
 
 Use older JDK
 
-`java.lang.IllegalArgumentException: Could not find class [tutorial.Stack_ESTest]` => copy classes from evosuit-tests/tutorial  to target/classes/tutorial
+`java.lang.IllegalArgumentException: Could not find class [tutorial.Stack_ESTest]` => copy classes from evosuit-tests/tutorial  to target/classes/tutorial ![](https://snag.gy/Lvh3UT.jpg)
 
 [EvoSuite](http://www.evosuite.org/documentation/tutorial-part-1/)
 

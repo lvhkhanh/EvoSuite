@@ -38,8 +38,15 @@ Use older JDK
 Build:
 
 * [Choco](https://chocolatey.org/docs/installation)
+
 `@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"`
+
 * [Git](https://gitforwindows.org/)
+
+```
+choco install git
+refreshenv
+```
 
 Refs
 * [EvoSuite](http://www.evosuite.org/documentation/tutorial-part-1/)

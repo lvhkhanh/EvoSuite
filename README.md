@@ -10,5 +10,16 @@ Add JAVA_HOME `C:\Program Files\Java\jdk-12.0.2\`
 
 Add Path [Maven](https://maven.apache.org/) `~\apache-maven-3.6.1\bin`
 
+`mvn compile`
+
+`option 6 is no longer supported. Use 7 or later.`
+
+```
+<properties>
+    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.7</maven.compiler.target>
+  </properties>
+```
+
 [EvoSuite](http://www.evosuite.org/documentation/tutorial-part-1/)
 

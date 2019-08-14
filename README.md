@@ -25,5 +25,7 @@ Add Path [Maven](https://maven.apache.org/) `~\apache-maven-3.6.1\bin`
 
 Download `tools.jar`, 
 
+Use older JDK
+
 [EvoSuite](http://www.evosuite.org/documentation/tutorial-part-1/)
 

@@ -29,6 +29,10 @@ Use older JDK
 
 `java.lang.IllegalArgumentException: Could not find class [tutorial.Stack_ESTest]` => copy classes from evosuit-tests/tutorial  to target/classes/tutorial ![](https://snag.gy/Lvh3UT.jpg)
 
+[Microsoft Code Digger](https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.MicrosoftCodeDigger&ssr=false#overview)
+
+![](https://snag.gy/xX6pL2.jpg)
+
 Refs
 * [EvoSuite](http://www.evosuite.org/documentation/tutorial-part-1/)
 * [CREATE YOUR OWN CLR PROFILER IN C#](http://topholt.com/c-clr-profiler/)

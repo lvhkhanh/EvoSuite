@@ -35,6 +35,10 @@ Use older JDK
 
 ![](https://snag.gy/xX6pL2.jpg)
 
+Build:
+
+* [Git](https://gitforwindows.org/)
+
 Refs
 * [EvoSuite](http://www.evosuite.org/documentation/tutorial-part-1/)
 * [CREATE YOUR OWN CLR PROFILER IN C#](http://topholt.com/c-clr-profiler/)

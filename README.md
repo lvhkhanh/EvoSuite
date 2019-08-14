@@ -19,11 +19,20 @@ refreshenv
 choco install maven
 refreshenv
 ```
-[JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
+```
+choco install jdk8
+refreshenv
+```
 
 Add Path `C:\Program Files\Java\jdk-12.0.2\bin`
 
 Add JAVA_HOME `C:\Program Files\Java\jdk-12.0.2\`
+
+```
+echo %JAVA_HOME%
+```
 
 `javac -version`
 

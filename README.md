@@ -88,4 +88,4 @@ Refs
 * [Mutation Testing in .NET, part 2](https://medium.com/comparethemarket/mutation-testing-in-net-part-2-590cca87f2e6)
 * [Fettle](https://github.com/ComparetheMarket/fettle)
 * [xUnit](https://xunit.net/)
-
+* [Roslyn](https://github.com/dotnet/roslyn)

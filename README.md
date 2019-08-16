@@ -85,3 +85,7 @@ Refs
 * [Symbolic Execution-based Test Tool Evaluator (SETTE)](https://github.com/SETTE-Testing/sette-tool/wiki)
 * [Survey on Automatic Test Data Generation Tools and Techniques for Object Oriented Code](https://bvucoepune.edu.in/wp-content/uploads/2018/BVUCOEP-DATA/Research_Publications/2015_16/42.pdf)
 * [Automated Software Test Generation: Some Challenges, Solutions, and Recent Advances](https://patricegodefroid.github.io/public_psfiles/lncs10000-2018.pdf)
+* [Mutation Testing in .NET, part 2](https://medium.com/comparethemarket/mutation-testing-in-net-part-2-590cca87f2e6)
+* [Fettle](https://github.com/ComparetheMarket/fettle)
+* [xUnit](https://xunit.net/)
+

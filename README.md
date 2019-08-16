@@ -19,6 +19,18 @@ refreshenv
 choco install maven
 refreshenv
 ```
+
+* [wget]()
+```
+choco install wget -y
+refreshenv
+```
+* [unzip]()
+```
+choco install unzip -y
+refreshenv
+```
+
 * [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ```

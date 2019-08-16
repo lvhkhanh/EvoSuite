@@ -87,5 +87,6 @@ Refs
 * [Automated Software Test Generation: Some Challenges, Solutions, and Recent Advances](https://patricegodefroid.github.io/public_psfiles/lncs10000-2018.pdf)
 * [Mutation Testing in .NET, part 2](https://medium.com/comparethemarket/mutation-testing-in-net-part-2-590cca87f2e6)
 * [Fettle](https://github.com/ComparetheMarket/fettle)
+* [Paket](https://github.com/fsprojects/Paket), [NuGet]()
 * [xUnit](https://xunit.net/), [NUnit](https://github.com/nunit/)
 * [Roslyn](https://github.com/dotnet/roslyn)
